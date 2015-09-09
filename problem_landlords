@@ -1,0 +1,627 @@
+<response>
+<row>
+<row _id="1" _uuid="C9D73CF2-80B8-43B9-B3D5-8FD16E631C22" _position="1" _address="http://data.cityofchicago.org/resource/dip3-ud6z/1">
+<address>1001 S MAYFIELD AVE</address>
+<secondary_address>5849 W ARTHINGTON ST</secondary_address>
+<respondent>Ravine Properties, LLC</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>29</ward>
+<census_tracts>17031831400</census_tracts>
+<census_blocks>170318314002042</census_blocks>
+<street_block_id>7445</street_block_id>
+<x_coordinate>1137233.9789750562</x_coordinate>
+<y_coordinate>1895377.068646989</y_coordinate>
+<longitude>-87.7716557532</longitude>
+<latitude>41.8690630014</latitude>
+<location latitude="41.8690630014" longitude="-87.7716557532" needs_recoding="false"/>
+</row>
+<row _id="3" _uuid="D4882C2B-3325-485C-878D-52109783902E" _position="3" _address="http://data.cityofchicago.org/resource/dip3-ud6z/3">
+<address>1142 S FRANCISCO AVE</address>
+<respondent>Ahmad Hamdan</respondent>
+<community_area>NORTH LAWNDALE</community_area>
+<community_area_number>29</community_area_number>
+<ward>28</ward>
+<census_tracts>17031838600</census_tracts>
+<census_blocks>170318386002007</census_blocks>
+<street_block_id>49786</street_block_id>
+<x_coordinate>1157163.4200317648</x_coordinate>
+<y_coordinate>1894757.3353754752</y_coordinate>
+<longitude>-87.698506124</longitude>
+<latitude>41.8669812475</latitude>
+<location latitude="41.8669812475" longitude="-87.698506124" needs_recoding="false"/>
+</row>
+<row _id="4" _uuid="04BE8CA4-3EE2-48C9-9855-9339DE5AB2E1" _position="4" _address="http://data.cityofchicago.org/resource/dip3-ud6z/4">
+<address>11432 S DR MARTIN LUTHER KING JR DR</address>
+<respondent>Sal Williams</respondent>
+<community_area>ROSELAND</community_area>
+<community_area_number>49</community_area_number>
+<ward>09</ward>
+<census_tracts>17031491400</census_tracts>
+<census_blocks>170314914003025</census_blocks>
+<street_block_id>32847</street_block_id>
+<x_coordinate>1180914.958025486</x_coordinate>
+<y_coordinate>1829106.5254737674</y_coordinate>
+<longitude>-87.6133298199</longitude>
+<latitude>41.6863139243</latitude>
+<location latitude="41.6863139243" longitude="-87.6133298199" needs_recoding="false"/>
+</row>
+<row _id="5" _uuid="0FCF3BA0-F706-4F43-B205-E893659740B9" _position="5" _address="http://data.cityofchicago.org/resource/dip3-ud6z/5">
+<address>1301 S TRIPP AVE</address>
+<secondary_address>4213 W 13TH ST</secondary_address>
+<respondent>ZJS Realty Inc.</respondent>
+<community_area>NORTH LAWNDALE</community_area>
+<community_area_number>29</community_area_number>
+<ward>24</ward>
+<census_tracts>17031290900</census_tracts>
+<census_blocks>170312909004007</census_blocks>
+<street_block_id>17969</street_block_id>
+<x_coordinate>1148297.9265542722</x_coordinate>
+<y_coordinate>1893668.5861891492</y_coordinate>
+<longitude>-87.7310807897</longitude>
+<latitude>41.8641688817</latitude>
+<location latitude="41.8641688817" longitude="-87.7310807897" needs_recoding="false"/>
+</row>
+<row _id="6" _uuid="FD3B29B1-1207-4330-953D-6506E02350D6" _position="6" _address="http://data.cityofchicago.org/resource/dip3-ud6z/6">
+<address>1622 E 78TH ST</address>
+<secondary_address>7752 S CORNELL</secondary_address>
+<respondent>Hattie Evans</respondent>
+<community_area>SOUTH SHORE</community_area>
+<community_area_number>43</community_area_number>
+<ward>08</ward>
+<census_tracts>17031834200</census_tracts>
+<census_blocks>170318342003006</census_blocks>
+<street_block_id>45664</street_block_id>
+<x_coordinate>1188577.1609208162</x_coordinate>
+<y_coordinate>1853629.8048591395</y_coordinate>
+<longitude>-87.5844993764</longitude>
+<latitude>41.7534292985</latitude>
+<location latitude="41.7534292985" longitude="-87.5844993764" needs_recoding="false"/>
+</row>
+<row _id="8" _uuid="877ADD6F-2590-4616-B087-AD98C91A9F0F" _position="8" _address="http://data.cityofchicago.org/resource/dip3-ud6z/8">
+<address>1755 N LINDER AVE</address>
+<respondent>Bernice Conner</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>37</ward>
+<census_tracts>17031250300</census_tracts>
+<census_blocks>170312503003005</census_blocks>
+<street_block_id>38333</street_block_id>
+<x_coordinate>1139491.8563506033</x_coordinate>
+<y_coordinate>1911352.3609101505</y_coordinate>
+<longitude>-87.7629765443</longitude>
+<latitude>41.9128603522</latitude>
+<location latitude="41.9128603522" longitude="-87.7629765443" needs_recoding="false"/>
+</row>
+<row _id="9" _uuid="3F5580C7-082F-4C4B-AC9E-8C65AC0D274C" _position="9" _address="http://data.cityofchicago.org/resource/dip3-ud6z/9">
+<address>1859 N MOBILE AVE</address>
+<respondent>Israel Ramos</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>29</ward>
+<census_tracts>17031250400</census_tracts>
+<census_blocks>170312504005007</census_blocks>
+<street_block_id>12961</street_block_id>
+<x_coordinate>1134295.6341174343</x_coordinate>
+<y_coordinate>1911928.496486794</y_coordinate>
+<longitude>-87.7820529322</longitude>
+<latitude>41.914534573</latitude>
+<location latitude="41.914534573" longitude="-87.7820529322" needs_recoding="false"/>
+</row>
+<row _id="11" _uuid="C292597C-5154-4FA0-A75B-137956DF909E" _position="11" _address="http://data.cityofchicago.org/resource/dip3-ud6z/11">
+<address>2154 N KOSTNER AVE</address>
+<respondent>Yadira Estrada</respondent>
+<community_area>HERMOSA</community_area>
+<community_area_number>20</community_area_number>
+<ward>31</ward>
+<census_tracts>17031200401</census_tracts>
+<census_blocks>170312004011000</census_blocks>
+<street_block_id>8822</street_block_id>
+<x_coordinate>1146658.1223704265</x_coordinate>
+<y_coordinate>1914199.406401076</y_coordinate>
+<longitude>-87.7365763346</longitude>
+<latitude>41.920539139</latitude>
+<location latitude="41.920539139" longitude="-87.7365763346" needs_recoding="false"/>
+</row>
+<row _id="12" _uuid="976A6C26-B49B-4845-AF51-FB45D3288DED" _position="12" _address="http://data.cityofchicago.org/resource/dip3-ud6z/12">
+<address>228 N LECLAIRE AVE</address>
+<respondent>Tyree Beard</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>28</ward>
+<census_tracts>17031251800</census_tracts>
+<census_blocks>170312518002009</census_blocks>
+<street_block_id>16083</street_block_id>
+<x_coordinate>1142288.6874767502</x_coordinate>
+<y_coordinate>1901341.958086179</y_coordinate>
+<longitude>-87.7529503147</longitude>
+<latitude>41.8853391532</latitude>
+<location latitude="41.8853391532" longitude="-87.7529503147" needs_recoding="false"/>
+</row>
+<row _id="13" _uuid="8962FD87-C798-41B5-B58C-FC63DE8E77BE" _position="13" _address="http://data.cityofchicago.org/resource/dip3-ud6z/13">
+<address>2821 N SPRINGFIELD AVE</address>
+<respondent>Guy Reyes</respondent>
+<community_area>AVONDALE</community_area>
+<community_area_number>21</community_area_number>
+<ward>30</ward>
+<census_tracts>17031210502</census_tracts>
+<census_blocks>170312105023009</census_blocks>
+<street_block_id>52315</street_block_id>
+<x_coordinate>1149939.044395321</x_coordinate>
+<y_coordinate>1918574.450150783</y_coordinate>
+<longitude>-87.7244073169</longitude>
+<latitude>41.9324813619</latitude>
+<location latitude="41.9324813619" longitude="-87.7244073169" needs_recoding="false"/>
+</row>
+<row _id="14" _uuid="0B622266-6123-4310-8D21-AF4E839C8ED4" _position="14" _address="http://data.cityofchicago.org/resource/dip3-ud6z/14">
+<address>2842 W POLK ST</address>
+<respondent>Mary Lang</respondent>
+<community_area>EAST GARFIELD PARK</community_area>
+<community_area_number>27</community_area_number>
+<ward>02</ward>
+<census_tracts>17031271800</census_tracts>
+<census_blocks>170312718001013</census_blocks>
+<street_block_id>39020</street_block_id>
+<x_coordinate>1157359.2663995228</x_coordinate>
+<y_coordinate>1896279.673078395</y_coordinate>
+<longitude>-87.6977457645</longitude>
+<latitude>41.8711547209</latitude>
+<location latitude="41.8711547209" longitude="-87.6977457645" needs_recoding="false"/>
+</row>
+<row _id="15" _uuid="EB6A4A66-A0B7-4885-81DC-47E39040B573" _position="15" _address="http://data.cityofchicago.org/resource/dip3-ud6z/15">
+<address>2940 W AUGUSTA BLVD</address>
+<respondent>Mosiac Development, LLC | Faith Cade</respondent>
+<community_area>WEST TOWN</community_area>
+<community_area_number>24</community_area_number>
+<ward>26</ward>
+<census_tracts>17031240900</census_tracts>
+<census_blocks>170312409001030</census_blocks>
+<street_block_id>3801</street_block_id>
+<x_coordinate>1156414.6571921145</x_coordinate>
+<y_coordinate>1906550.2495416426</y_coordinate>
+<longitude>-87.700935908</longitude>
+<latitude>41.8993573088</latitude>
+<location latitude="41.8993573088" longitude="-87.700935908" needs_recoding="false"/>
+</row>
+<row _id="16" _uuid="9187075F-77CC-41E2-8911-2361AFE13D3B" _position="16" _address="http://data.cityofchicago.org/resource/dip3-ud6z/16">
+<address>3100 W 39TH PL</address>
+<respondent>Jose Rodriguez</respondent>
+<community_area>BRIGHTON PARK</community_area>
+<community_area_number>58</community_area_number>
+<ward>14</ward>
+<census_tracts>17031580501</census_tracts>
+<census_blocks>170315805011004</census_blocks>
+<street_block_id>38450</street_block_id>
+<x_coordinate>1156287.9642900287</x_coordinate>
+<y_coordinate>1878301.9694450465</y_coordinate>
+<longitude>-87.702164011</longitude>
+<latitude>41.8218435355</latitude>
+<location latitude="41.8218435355" longitude="-87.702164011" needs_recoding="false"/>
+</row>
+<row _id="17" _uuid="5F1448C3-A951-48CC-BCD5-A9022532E6E9" _position="17" _address="http://data.cityofchicago.org/resource/dip3-ud6z/17">
+<address>3636 W IOWA ST</address>
+<secondary_address>900 N. MONTICELLO</secondary_address>
+<respondent>Frank Duncan</respondent>
+<community_area>HUMBOLDT PARK</community_area>
+<community_area_number>23</community_area_number>
+<ward>27</ward>
+<census_tracts>17031231200</census_tracts>
+<census_blocks>170312312002002</census_blocks>
+<street_block_id>29716</street_block_id>
+<x_coordinate>1151842.870443532</x_coordinate>
+<y_coordinate>1905796.6473370986</y_coordinate>
+<longitude>-87.7177479662</longitude>
+<latitude>41.8973805991</latitude>
+<location latitude="41.8973805991" longitude="-87.7177479662" needs_recoding="false"/>
+</row>
+<row _id="18" _uuid="3F0D5C4C-E712-4910-A6E1-33F50087F556" _position="18" _address="http://data.cityofchicago.org/resource/dip3-ud6z/18">
+<address>3726 W GIDDINGS ST</address>
+<respondent>Annabelle Bernales | Joe Marie | Teresita Marie</respondent>
+<community_area>ALBANY PARK</community_area>
+<community_area_number>14</community_area_number>
+<ward>39</ward>
+<census_tracts>17031140602</census_tracts>
+<census_blocks>170311406023003</census_blocks>
+<street_block_id>27447</street_block_id>
+<x_coordinate>1150550.5551700387</x_coordinate>
+<y_coordinate>1931343.1875062762</y_coordinate>
+<longitude>-87.7218252726</longitude>
+<latitude>41.9675078049</latitude>
+<location latitude="41.9675078049" longitude="-87.7218252726" needs_recoding="false"/>
+</row>
+<row _id="19" _uuid="AD154A8D-27CE-4035-8EEF-0AEAC9754869" _position="19" _address="http://data.cityofchicago.org/resource/dip3-ud6z/19">
+<address>39 W 103RD PL</address>
+<respondent>Dynasty Sales Consulting, Inc.</respondent>
+<community_area>ROSELAND</community_area>
+<community_area_number>49</community_area_number>
+<ward>34</ward>
+<census_tracts>17031491000</census_tracts>
+<census_blocks>170314910001004</census_blocks>
+<street_block_id>21872</street_block_id>
+<x_coordinate>1177689.1181708837</x_coordinate>
+<y_coordinate>1836298.6428232123</y_coordinate>
+<longitude>-87.6249224086</longitude>
+<latitude>41.7061235065</latitude>
+<location latitude="41.7061235065" longitude="-87.6249224086" needs_recoding="false"/>
+</row>
+<row _id="20" _uuid="BA22C432-21E4-495E-B720-CFA17AA6A648" _position="20" _address="http://data.cityofchicago.org/resource/dip3-ud6z/20">
+<address>4054 W LEXINGTON ST</address>
+<secondary_address>701 S KARLOV AVE</secondary_address>
+<respondent>Christopher Georgiades</respondent>
+<community_area>WEST GARFIELD PARK</community_area>
+<community_area_number>26</community_area_number>
+<ward>24</ward>
+<census_tracts>17031261000</census_tracts>
+<census_blocks>170312610002005</census_blocks>
+<street_block_id>46266</street_block_id>
+<x_coordinate>1149238.8997805256</x_coordinate>
+<y_coordinate>1896502.9690675952</y_coordinate>
+<longitude>-87.7275530498</longitude>
+<latitude>41.8719285966</latitude>
+<location latitude="41.8719285966" longitude="-87.7275530498" needs_recoding="false"/>
+</row>
+<row _id="21" _uuid="38C3E5B2-FA5E-47F9-B3FB-BA726CE2C877" _position="21" _address="http://data.cityofchicago.org/resource/dip3-ud6z/21">
+<address>5045 S MAY ST</address>
+<respondent>Kenneth Gunn</respondent>
+<community_area>NEW CITY</community_area>
+<community_area_number>61</community_area_number>
+<ward>16</ward>
+<census_tracts>17031611000</census_tracts>
+<census_blocks>170316110001026</census_blocks>
+<street_block_id>29688</street_block_id>
+<x_coordinate>1169551.543321361</x_coordinate>
+<y_coordinate>1871155.4000012765</y_coordinate>
+<longitude>-87.6537133873</longitude>
+<latitude>41.8019549233</latitude>
+<location latitude="41.8019549233" longitude="-87.6537133873" needs_recoding="false"/>
+</row>
+<row _id="22" _uuid="DEED50D5-0CFD-4769-B440-27E1B79D9318" _position="22" _address="http://data.cityofchicago.org/resource/dip3-ud6z/22">
+<address>5142 S ADA ST</address>
+<respondent>CTMF LLC</respondent>
+<community_area>NEW CITY</community_area>
+<community_area_number>61</community_area_number>
+<ward>16</ward>
+<census_tracts>17031611900</census_tracts>
+<census_blocks>170316119002004</census_blocks>
+<street_block_id>22203</street_block_id>
+<x_coordinate>1168164.707418117</x_coordinate>
+<y_coordinate>1870475.9366212147</y_coordinate>
+<longitude>-87.6588190198</longitude>
+<latitude>41.8001203767</latitude>
+<location latitude="41.8001203767" longitude="-87.6588190198" needs_recoding="false"/>
+</row>
+<row _id="23" _uuid="50B45376-61A7-4449-BAD1-3376FC5603EB" _position="23" _address="http://data.cityofchicago.org/resource/dip3-ud6z/23">
+<address>5402 W RICE ST</address>
+<secondary_address>832 N LONG</secondary_address>
+<respondent>Raquel Reyes</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>37</ward>
+<census_tracts>17031251200</census_tracts>
+<census_blocks>170312512003012</census_blocks>
+<street_block_id>35252</street_block_id>
+<x_coordinate>1140099.7261905773</x_coordinate>
+<y_coordinate>1905179.5441996912</y_coordinate>
+<longitude>-87.7608946752</longitude>
+<latitude>41.8959103073</latitude>
+<location latitude="41.8959103073" longitude="-87.7608946752" needs_recoding="false"/>
+</row>
+<row _id="24" _uuid="EB04C8D8-DFC8-44D3-B344-42AD60892362" _position="24" _address="http://data.cityofchicago.org/resource/dip3-ud6z/24">
+<address>5553 W CORTLAND ST</address>
+<respondent>Antonio Torres | Antonio Gomez Torres</respondent>
+<community_area>AUSTIN</community_area>
+<community_area_number>25</community_area_number>
+<ward>37</ward>
+<census_tracts>17031250300</census_tracts>
+<census_blocks>170312503004007</census_blocks>
+<street_block_id>30634</street_block_id>
+<x_coordinate>1138866.013604642</x_coordinate>
+<y_coordinate>1911855.7460644334</y_coordinate>
+<longitude>-87.7652635252</longitude>
+<latitude>41.9142530961</latitude>
+<location latitude="41.9142530961" longitude="-87.7652635252" needs_recoding="false"/>
+</row>
+<row _id="25" _uuid="1A43E81E-55CD-419F-8594-A0A7827B1489" _position="25" _address="http://data.cityofchicago.org/resource/dip3-ud6z/25">
+<address>5732 S THROOP ST</address>
+<respondent>Robert Smith</respondent>
+<community_area>WEST ENGLEWOOD</community_area>
+<community_area_number>67</community_area_number>
+<ward>16</ward>
+<census_tracts>17031670100</census_tracts>
+<census_blocks>170316701002014</census_blocks>
+<street_block_id>30107</street_block_id>
+<x_coordinate>1168600.8580449168</x_coordinate>
+<y_coordinate>1866607.2834126258</y_coordinate>
+<longitude>-87.6573310928</longitude>
+<latitude>41.7894949433</latitude>
+<location latitude="41.7894949433" longitude="-87.6573310928" needs_recoding="false"/>
+</row>
+<row _id="26" _uuid="B2488A3C-2D16-416C-85DD-D5F2A5BFA270" _position="26" _address="http://data.cityofchicago.org/resource/dip3-ud6z/26">
+<address>5810 W 64TH PL</address>
+<respondent>Tammy Sanfratello</respondent>
+<community_area>CLEARING</community_area>
+<community_area_number>64</community_area_number>
+<ward>13</ward>
+<census_tracts>17031640600</census_tracts>
+<census_blocks>170316406002027</census_blocks>
+<street_block_id>14238</street_block_id>
+<x_coordinate>1138725.209019186</x_coordinate>
+<y_coordinate>1861230.9612814179</y_coordinate>
+<longitude>-87.7670072734</longitude>
+<latitude>41.7753337451</latitude>
+<location latitude="41.7753337451" longitude="-87.7670072734" needs_recoding="false"/>
+</row>
+<row _id="27" _uuid="E66EAD49-93BB-4D6E-AE64-A1195322561B" _position="27" _address="http://data.cityofchicago.org/resource/dip3-ud6z/27">
+<address>6116 S ST LAWRENCE AVE</address>
+<respondent>Greenwood Investment Properties, LLC</respondent>
+<community_area>WOODLAWN</community_area>
+<community_area_number>42</community_area_number>
+<ward>20</ward>
+<census_tracts>17031420600</census_tracts>
+<census_blocks>170314206002000</census_blocks>
+<street_block_id>34</street_block_id>
+<x_coordinate>1181249.4725410563</x_coordinate>
+<y_coordinate>1864497.4496505416</y_coordinate>
+<longitude>-87.6110179015</longitude>
+<latitude>41.7834230916</latitude>
+<location latitude="41.7834230916" longitude="-87.6110179015" needs_recoding="false"/>
+</row>
+<row _id="28" _uuid="1485C03D-6C12-4B01-BA52-B6FC5D648EA5" _position="28" _address="http://data.cityofchicago.org/resource/dip3-ud6z/28">
+<address>6223 S HONORE ST</address>
+<respondent>Darrell Jones</respondent>
+<community_area>WEST ENGLEWOOD</community_area>
+<community_area_number>67</community_area_number>
+<ward>15</ward>
+<census_tracts>17031670600</census_tracts>
+<census_blocks>170316706002013</census_blocks>
+<street_block_id>12662</street_block_id>
+<x_coordinate>1165129.939604677</x_coordinate>
+<y_coordinate>1863298.870014243</y_coordinate>
+<longitude>-87.6701514542</longitude>
+<latitude>41.7804904216</latitude>
+<location latitude="41.7804904216" longitude="-87.6701514542" needs_recoding="false"/>
+</row>
+<row _id="29" _uuid="4F9577E8-F8F1-436F-BDA5-68A3D67C1066" _position="29" _address="http://data.cityofchicago.org/resource/dip3-ud6z/29">
+<address>6323 S TALMAN AVE</address>
+<respondent>R & P Property Investment Properties, LLC</respondent>
+<community_area>CHICAGO LAWN</community_area>
+<community_area_number>66</community_area_number>
+<ward>15</ward>
+<census_tracts>17031660600</census_tracts>
+<census_blocks>170316606002003</census_blocks>
+<street_block_id>30418</street_block_id>
+<x_coordinate>1159838.7284893687</x_coordinate>
+<y_coordinate>1862508.7615345805</y_coordinate>
+<longitude>-87.6895717452</longitude>
+<latitude>41.7784325965</latitude>
+<location latitude="41.7784325965" longitude="-87.6895717452" needs_recoding="false"/>
+</row>
+<row _id="30" _uuid="0DBF765D-E984-4E13-B518-AD1034FBE673" _position="30" _address="http://data.cityofchicago.org/resource/dip3-ud6z/30">
+<address>6339 S RACINE AVE</address>
+<respondent>Angela White-Smith</respondent>
+<community_area>ENGLEWOOD</community_area>
+<community_area_number>68</community_area_number>
+<ward>16</ward>
+<census_tracts>17031681000</census_tracts>
+<census_blocks>170316810001002</census_blocks>
+<street_block_id>13608</street_block_id>
+<x_coordinate>1169452.2405729883</x_coordinate>
+<y_coordinate>1862588.6882322154</y_coordinate>
+<longitude>-87.6543257015</longitude>
+<latitude>41.7784490286</latitude>
+<location latitude="41.7784490286" longitude="-87.6543257015" needs_recoding="false"/>
+</row>
+<row _id="31" _uuid="605F476C-F559-4C81-BFF7-9F10311E27F0" _position="31" _address="http://data.cityofchicago.org/resource/dip3-ud6z/31">
+<address>6430 S YALE AVE</address>
+<respondent>Hazel Farley | Samuel Farley</respondent>
+<community_area>ENGLEWOOD</community_area>
+<community_area_number>68</community_area_number>
+<ward>20</ward>
+<census_tracts>17031680900</census_tracts>
+<census_blocks>170316809002017</census_blocks>
+<street_block_id>5183</street_block_id>
+<x_coordinate>1175574.7055732505</x_coordinate>
+<y_coordinate>1862185.2273310516</y_coordinate>
+<longitude>-87.6318925469</longitude>
+<latitude>41.7772070354</latitude>
+<location latitude="41.7772070354" longitude="-87.6318925469" needs_recoding="false"/>
+</row>
+<row _id="32" _uuid="500887FC-B8F4-4F7C-B84F-8CB6BA0EE0E0" _position="32" _address="http://data.cityofchicago.org/resource/dip3-ud6z/32">
+<address>6441 S EBERHART AVE</address>
+<respondent>Ernestine Newman aka Ernestine Cochran</respondent>
+<community_area>WOODLAWN</community_area>
+<community_area_number>42</community_area_number>
+<ward>20</ward>
+<census_tracts>17031420700</census_tracts>
+<census_blocks>170314207004009</census_blocks>
+<street_block_id>44148</street_block_id>
+<x_coordinate>1180729.7457898988</x_coordinate>
+<y_coordinate>1862242.9436940465</y_coordinate>
+<longitude>-87.6129926213</longitude>
+<latitude>41.777248475</latitude>
+<location latitude="41.777248475" longitude="-87.6129926213" needs_recoding="false"/>
+</row>
+<row _id="33" _uuid="93BD04C6-5F4A-486C-A10E-8976E545481D" _position="33" _address="http://data.cityofchicago.org/resource/dip3-ud6z/33">
+<address>6447 S EVANS AVE</address>
+<respondent>Regniva, LLC</respondent>
+<community_area>WOODLAWN</community_area>
+<community_area_number>42</community_area_number>
+<ward>20</ward>
+<census_tracts>17031420700</census_tracts>
+<census_blocks>170314207001007</census_blocks>
+<street_block_id>8431</street_block_id>
+<x_coordinate>1182372.4854622371</x_coordinate>
+<y_coordinate>1862234.8728254063</y_coordinate>
+<longitude>-87.6069706679</longitude>
+<latitude>41.7771884097</latitude>
+<location latitude="41.7771884097" longitude="-87.6069706679" needs_recoding="false"/>
+</row>
+<row _id="34" _uuid="356C1EE6-9FA6-4BE5-AA00-B97F05D595C3" _position="34" _address="http://data.cityofchicago.org/resource/dip3-ud6z/34">
+<address>7029 S ARTESIAN AVE</address>
+<respondent>Daisy Johnson</respondent>
+<community_area>CHICAGO LAWN</community_area>
+<community_area_number>66</community_area_number>
+<ward>17</ward>
+<census_tracts>17031660900</census_tracts>
+<census_blocks>170316609002018</census_blocks>
+<street_block_id>1966</street_block_id>
+<x_coordinate>1161299.653246527</x_coordinate>
+<y_coordinate>1857850.159667119</y_coordinate>
+<longitude>-87.6843447581</longitude>
+<latitude>41.7656185984</latitude>
+<location latitude="41.7656185984" longitude="-87.6843447581" needs_recoding="false"/>
+</row>
+<row _id="35" _uuid="A86129CD-70A6-4902-A78E-DAC668E9CF8B" _position="35" _address="http://data.cityofchicago.org/resource/dip3-ud6z/35">
+<address>7029 S MICHIGAN AVE</address>
+<respondent>Jacqueline Andrews</respondent>
+<community_area>GREATER GRAND CROSSING</community_area>
+<community_area_number>69</community_area_number>
+<ward>06</ward>
+<census_tracts>17031690400</census_tracts>
+<census_blocks>170316904003009</census_blocks>
+<street_block_id>4509</street_block_id>
+<x_coordinate>1178421.820439515</x_coordinate>
+<y_coordinate>1858313.8914585044</y_coordinate>
+<longitude>-87.6215725868</longitude>
+<latitude>41.7665194801</latitude>
+<location latitude="41.7665194801" longitude="-87.6215725868" needs_recoding="false"/>
+</row>
+<row _id="36" _uuid="4D7B8AAA-3F4C-411C-8A43-A26A983DEE3E" _position="36" _address="http://data.cityofchicago.org/resource/dip3-ud6z/36">
+<address>7616 S MORGAN ST</address>
+<respondent>Jerome Bailey</respondent>
+<community_area>AUBURN GRESHAM</community_area>
+<community_area_number>71</community_area_number>
+<ward>17</ward>
+<census_tracts>17031710200</census_tracts>
+<census_blocks>170317102003006</census_blocks>
+<street_block_id>28617</street_block_id>
+<x_coordinate>1170926.1338597438</x_coordinate>
+<y_coordinate>1854232.0924170474</y_coordinate>
+<longitude>-87.6491660167</longitude>
+<latitude>41.7554854307</latitude>
+<location latitude="41.7554854307" longitude="-87.6491660167" needs_recoding="false"/>
+</row>
+<row _id="37" _uuid="6E852F3F-1F5A-4EAA-B3D7-13144A965071" _position="37" _address="http://data.cityofchicago.org/resource/dip3-ud6z/37">
+<address>7753 S MORGAN ST</address>
+<respondent>
+Bernice Wilkins | Wendell Wilkins, Sr. | Wendell Wilkins
+</respondent>
+<community_area>AUBURN GRESHAM</community_area>
+<community_area_number>71</community_area_number>
+<ward>17</ward>
+<census_tracts>17031710200</census_tracts>
+<census_blocks>170317102002010</census_blocks>
+<street_block_id>2704</street_block_id>
+<x_coordinate>1171034.0517288195</x_coordinate>
+<y_coordinate>1853200.5659776228</y_coordinate>
+<longitude>-87.6488006033</longitude>
+<latitude>41.7526524324</latitude>
+<location latitude="41.7526524324" longitude="-87.6488006033" needs_recoding="false"/>
+</row>
+<row _id="38" _uuid="2A958E27-A458-4E1F-A73D-7A93A1BF5385" _position="38" _address="http://data.cityofchicago.org/resource/dip3-ud6z/38">
+<address>7834 S MARQUETTE AVE</address>
+<respondent>Elijah Mohammed</respondent>
+<community_area>SOUTH SHORE</community_area>
+<community_area_number>43</community_area_number>
+<ward>07</ward>
+<census_tracts>17031431301</census_tracts>
+<census_blocks>170314313013000</census_blocks>
+<street_block_id>21834</street_block_id>
+<x_coordinate>1195644.9074051701</x_coordinate>
+<y_coordinate>1853389.9724795902</y_coordinate>
+<longitude>-87.5586071113</longitude>
+<latitude>41.7525994533</latitude>
+<location latitude="41.7525994533" longitude="-87.5586071113" needs_recoding="false"/>
+</row>
+<row _id="39" _uuid="865F5472-D18B-4B34-8B0F-6E2B57022AA1" _position="39" _address="http://data.cityofchicago.org/resource/dip3-ud6z/39">
+<address>7920 S DOBSON AVE</address>
+<respondent>Starveniece Avery-Bradley</respondent>
+<community_area>CHATHAM</community_area>
+<community_area_number>44</community_area_number>
+<ward>08</ward>
+<census_tracts>17031440101</census_tracts>
+<census_blocks>170314401011003</census_blocks>
+<street_block_id>5077</street_block_id>
+<x_coordinate>1184560.4135452823</x_coordinate>
+<y_coordinate>1852597.18379177</y_coordinate>
+<longitude>-87.5992513732</longitude>
+<latitude>41.7506906759</latitude>
+<location latitude="41.7506906759" longitude="-87.5992513732" needs_recoding="false"/>
+</row>
+<row _id="40" _uuid="40540C88-CC51-48F9-AF8D-896F74DFAC9F" _position="40" _address="http://data.cityofchicago.org/resource/dip3-ud6z/40">
+<address>8101 S JEFFERY BLVD</address>
+<respondent>Joel Reifer d/b/a Property Tax Professionals, LLC</respondent>
+<community_area>SOUTH CHICAGO</community_area>
+<community_area_number>46</community_area_number>
+<ward>08</ward>
+<census_tracts>17031460500</census_tracts>
+<census_blocks>170314605005007</census_blocks>
+<street_block_id>16395</street_block_id>
+<x_coordinate>1190976.9404438473</x_coordinate>
+<y_coordinate>1851628.6662926204</y_coordinate>
+<longitude>-87.5757697848</longitude>
+<latitude>41.7478803456</latitude>
+<location latitude="41.7478803456" longitude="-87.5757697848" needs_recoding="false"/>
+</row>
+<row _id="41" _uuid="EBD0640B-7178-4852-AF89-ACA414E0EE12" _position="41" _address="http://data.cityofchicago.org/resource/dip3-ud6z/41">
+<address>905 E 92ND PL</address>
+<respondent>Callie Cattenhead</respondent>
+<community_area>BURNSIDE</community_area>
+<community_area_number>47</community_area_number>
+<ward>08</ward>
+<census_tracts>17031470100</census_tracts>
+<census_blocks>170314701001009</census_blocks>
+<street_block_id>4101</street_block_id>
+<x_coordinate>1183875.7844250153</x_coordinate>
+<y_coordinate>1843792.5834223563</y_coordinate>
+<longitude>-87.6020343169</longitude>
+<latitude>41.7265458893</latitude>
+<location latitude="41.7265458893" longitude="-87.6020343169" needs_recoding="false"/>
+</row>
+<row _id="42" _uuid="3AE08628-7D39-419C-8FE6-5690C9E628CE" _position="42" _address="http://data.cityofchicago.org/resource/dip3-ud6z/42">
+<address>9345 S MICHIGAN AVE</address>
+<respondent>Izumi Graf</respondent>
+<community_area>ROSELAND</community_area>
+<community_area_number>49</community_area_number>
+<ward>06</ward>
+<census_tracts>17031490300</census_tracts>
+<census_blocks>170314903002019</census_blocks>
+<street_block_id>22690</street_block_id>
+<x_coordinate>1178840.4253625367</x_coordinate>
+<y_coordinate>1842859.0862201883</y_coordinate>
+<longitude>-87.6205075197</longitude>
+<latitude>41.7241001629</latitude>
+<location latitude="41.7241001629" longitude="-87.6205075197" needs_recoding="false"/>
+</row>
+<row _id="43" _uuid="39CBB8EB-A62C-45C1-B8F5-8613E9115E5C" _position="43" _address="http://data.cityofchicago.org/resource/dip3-ud6z/43">
+<address>1264 S ST LOUIS AVE</address>
+<respondent>DRS Land Acquisition, LLC</respondent>
+<community_area>NORTH LAWNDALE</community_area>
+<community_area_number>29</community_area_number>
+<ward>24</ward>
+<census_tracts>17031291200</census_tracts>
+<census_blocks>170312912002004</census_blocks>
+<street_block_id>6672</street_block_id>
+<x_coordinate>1153202.9331296931</x_coordinate>
+<y_coordinate>1893769.125931422</y_coordinate>
+<longitude>-87.7130718725</longitude>
+<latitude>41.8643489392</latitude>
+<location latitude="41.8643489392" longitude="-87.7130718725" needs_recoding="false"/>
+</row>
+<row _id="45" _uuid="E0A55968-5BF6-488A-9C2B-79C730084752" _position="45" _address="http://data.cityofchicago.org/resource/dip3-ud6z/45">
+<address>3105 W 39TH PL</address>
+<respondent>David Gonen</respondent>
+<community_area>BRIGHTON PARK</community_area>
+<community_area_number>58</community_area_number>
+<ward>14</ward>
+<census_tracts>17031580501</census_tracts>
+<census_blocks>170315805011005</census_blocks>
+<street_block_id>38450</street_block_id>
+<x_coordinate>1156250.344017216</x_coordinate>
+<y_coordinate>1878220.6264227405</y_coordinate>
+<longitude>-87.7023042151</longitude>
+<latitude>41.8216210781</latitude>
+<location latitude="41.8216210781" longitude="-87.7023042151" needs_recoding="false"/>
+</row>
+</row>
+</response>
